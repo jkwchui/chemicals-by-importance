@@ -1,0 +1,85 @@
+[
+  {
+    "chemical": "Acetic acid",
+    "importance": "Top",
+    "quality": "----",
+    "CID": 176
+  },
+  {
+    "chemical": "Chlorine",
+    "importance": "Top",
+    "quality": "----",
+    "CID": 24526
+  },
+  {
+    "chemical": "Hydrochloric acid",
+    "importance": "Top",
+    "quality": "----",
+    "CID": 313
+  },
+  {
+    "chemical": "Adenosine triphosphate",
+    "importance": "High",
+    "quality": "----",
+    "CID": 5957
+  },
+  {
+    "chemical": "Aspirin",
+    "importance": "High",
+    "quality": "----",
+    "CID": 2244
+  },
+  {
+    "chemical": "CS gas",
+    "importance": "High",
+    "quality": "----",
+    "CID": 17604
+  },
+  {
+    "chemical": "Methamphetamine",
+    "importance": "High",
+    "quality": "----",
+    "CID": 10836
+  },
+  {
+    "chemical": "Nickel",
+    "importance": "High",
+    "quality": "----",
+    "CID": 935
+  },
+  {
+    "chemical": "Nicotinamide adenine dinucleotide",
+    "importance": "High",
+    "quality": "----",
+    "CID": [
+      5892,
+      5893,
+      15938971,
+      131856770
+    ]
+  },
+  {
+    "chemical": "Plutonium",
+    "importance": "High",
+    "quality": "----",
+    "CID": 23940
+  },
+  {
+    "chemical": "Salt",
+    "importance": "High",
+    "quality": "----",
+    "CID": 5234
+  },
+  {
+    "chemical": "Silicon carbide",
+    "importance": "High",
+    "quality": "----",
+    "CID": 9863
+  },
+  {
+    "chemical": "Vitamin C",
+    "importance": "High",
+    "quality": "----",
+    "CID": 54670067
+  }
+]
